@@ -10,6 +10,9 @@ const rollDice = (event) => {
     console.log(randomDice);
     dieResult.textContent += dice[randomDice];
   }
+
+
+  
 };
 
 const savedHistory = (event) => {
